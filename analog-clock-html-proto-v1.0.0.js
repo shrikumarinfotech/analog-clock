@@ -98,7 +98,7 @@ function rotateClockHands(){
         // calculte degres for minute
         rotateMinuteDeg = ( (timeMinute() * 6) + (rotateSecondDeg / 60 ) );
         // calculate degres for hour
-        rotateHourDeg = ( (Number.parseInt(timeHour()) * 30 ) + (rotateMinuteDeg / 60) );
+        rotateHourDeg = ( (Number.parseInt(timeHour()) * 30 ) + (rotateMinuteDeg / 12) );
 
     };
     
@@ -116,7 +116,7 @@ function rotateClockHands(){
 
         // rotate hourHand
         handHour.style.setProperty('transform', `rotate(${rotateHourDeg}deg)`);
-        rotateHourDeg += (30 / 60 / 60);
+        rotateHourDeg += (30 / 60);
 
 
         // display time and date
