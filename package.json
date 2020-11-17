@@ -1,0 +1,11 @@
+{
+  "name": "clock-analog",
+  "version": "1.0.0",
+  "description": "Display analog clock in JavaScript",
+  "main": "analog-clock-html-proto-v1.0.0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shrikumar Infotech",
+  "license": "GPLv2.0"
+}

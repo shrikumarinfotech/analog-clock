@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+        text-anchor: middle;
+        font-family: Arial;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <g id="clock">
+      <g id="dial">
+        <circle class="cls-1" cx="128.25" cy="128.25" r="122.25"/>
+      </g>
+      <g id="numbers">
+        <text id="_12" data-name="12" class="cls-2" x="128" y="48.5">12</text>
+        <text id="_3" data-name="3" class="cls-2" x="219" y="136.5">3</text>
+        <text id="_6" data-name="6" class="cls-2" x="128" y="224.5">6</text>
+        <text id="_9" data-name="9" class="cls-2" x="38" y="136.5">9</text>
+      </g>
+    </g>
+  </g>
+</svg>

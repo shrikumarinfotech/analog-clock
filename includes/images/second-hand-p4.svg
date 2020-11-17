@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <g id="Artboard_1" data-name="Artboard 1">
+    <g id="clock">
+      <g id="hands">
+        <image id="second-hand" x="127" y="21" width="2" height="112" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAABwCAYAAAA0XKHuAAAAH0lEQVQoke3GMQEAAAQAsNG/M48U2LVAQRrn8/nsDBqlTwHf68fekAAAAABJRU5ErkJggg=="/>
+      </g>
+    </g>
+  </g>
+</svg>
